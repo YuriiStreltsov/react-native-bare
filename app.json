@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-bare",
+    "slug": "react-native-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
